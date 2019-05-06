@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/grigorii05/lab04.svg?branch=master)](https://travis-ci.org/grigorii05/lab04)
+[![Build Status](https://travis-ci.org/grigorii05/lab05.svg?branch=master)](https://travis-ci.org/grigorii05/lab05)
 <фрагмент_вставки_значка>
